@@ -5,3 +5,11 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Josocool/Java-Backend-Bootcamp.git
 git push -u origin main
+
+
+ຄັ້ງຕໍ່ໄປຖ້າຕ້ອງການອັບເດດໂປຮເຈັກຂື້ນອີກເຮັດຕາມນີ້ :
+
+1. ເຂົ້າໄປທີ່ path ຂອງໂປຮເຈັກ
+2. ເລືອກ git add file ຕາມໃຈຕົວເອງ
+3. git commit -m "ຄອມເມັ້ນທີ່ຕ້ອງການບອກ"
+4. git push
